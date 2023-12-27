@@ -6,7 +6,7 @@ I did the visualization with gnuplot. <br>
 ## Usage
 g++ and gnuplot have to be installed, see https://www.msys2.org/ . <br>
 "pacman -S mingw-w64-ucrt-x86_64-gcc" to install g++. <br>
-"pacman -S gw-w64-x86_64-gnuplot" to install gnuplot. <br>
+"pacman -S mingw-w64-x86_64-gnuplot" to install gnuplot. <br>
 For the visualization of the path you need gnuplot, but it is not necessary. <br>
 Without gnuplot, you have to rewrite the last part of the main function of astar.cpp . <br>
 Type simply "g++ astar.cpp -o astar" for compiling. <br>
