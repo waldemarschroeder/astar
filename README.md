@@ -1,6 +1,6 @@
 # a star
-Simple a* (a star) Algorithm in cpp for pathfinding with visualization in Gnuplot. <br>
-I took the a star implementation in cpp from https://github.com/thuva4/Algorithms .
+Simple a* (a star) Algorithm in cpp for pathfinding and visualization in Gnuplot. <br>
+I took the a star implementation in cpp from https://github.com/thuva4/Algorithms . <br>
 I did the visualization with gnuplot. <br>
 
 ## Usage
